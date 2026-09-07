@@ -1,0 +1,6 @@
+const math=require('./math')
+console.log(math.iseven(2))
+console.log(math.iseven(5))
+console.log(math.iseven(10))
+console.log(math.iseven(17))
+const fs=require('fs')
